@@ -42,9 +42,9 @@ public class AuthorizationTokenSpotify {
 
     private static final SpotifyApi spotifyApi = new SpotifyApi.Builder()
 
-            .setClientId("ba32c2aa4d634b7c907cae0acee3460d")
-            .setClientSecret( "d07ae50b68dc488b9c67892d8761521e")
-            .setRefreshToken("AQBnelTAi0FduTBYT0XhtJi9JlDEZVt8GOHVqonAZujlMEr7aTZ4DJx0J9M_eOOSum_bK198P0LbGw1O3Q3e_WVLJdH5QPa_106pCL-5SwSZE7N0Y9q1-XaF-jI_CpQcapl9Bg")
+            .setClientId("xxxxxxxxxxxxx")
+            .setClientSecret( "xxxxxxxxxxxxxxxxxx")
+            .setRefreshToken("xxxxxxxxxxxxxxxxxxx")
             .build();
 
 
